@@ -1,5 +1,4 @@
 def  test_example():
     assert 3>1
-
-def  test_example():
-    assert 0==0
+def  test_example1():
+    assert 3>2
